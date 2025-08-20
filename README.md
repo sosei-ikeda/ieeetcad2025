@@ -1,0 +1,1 @@
+S. Ikeda, H. Awano, and T. Sato, ”Online training and inference system on edge fpga using delayed feedback reservoir,” IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (2025).
